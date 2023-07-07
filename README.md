@@ -1,4 +1,4 @@
-# python
+# Project REST API Integration Using Python
 Hi,
 We have this repo for RESTAPI Integration using python, where we took a use case of student management owner portal,
 
